@@ -50,3 +50,6 @@ in any of the information provided here.</p>
 <ul>
   <li>Two instances of JP6 on the silk screen. The rightmost one should really say JP5, but it's not really important. It's just a jumper wire, so you can't get it wrong.</li>
 </ul>
+
+<h1>Feedback / Questions</h1>
+<p>Just open a new issue if you have something to comment or ask. I might not be very active here, so it could take some time before I reply.</p>
