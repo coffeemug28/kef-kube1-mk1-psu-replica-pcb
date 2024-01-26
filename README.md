@@ -31,6 +31,11 @@ in any of the information provided here.</p>
       PCB was a single-sided PCB you couldn't just insert it from the bottom and solder it that way. Instead KEF tacked it
       onto neighboring pins. Again, quite ugly. So on the replica PCB C8 and R11 is rearranged somewhat to aid soldering.
       C8 is still meant to be soldered on the bottom side.</li>
+  <li>If you watch the photos of my completed replica PCB, you can see that I made a new, slightly longer power cable to
+      the amplifier, to make it easier to reassemble the unit. I just used some pre-crimped JST-VH wires, and didn't
+      really think about the wire colors. Compared to the original, the red and yellow wires are swapped. This can
+      lead to some confusion, so when disassembling your Kube-1, make a note of the order of the pins, so you don't
+      accidentally reverse the polarity.</li>
 </ul>
 
 <h1>Errata</h1>
