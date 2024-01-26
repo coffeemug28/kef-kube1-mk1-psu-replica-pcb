@@ -19,3 +19,8 @@ in any of the information provided here.</p>
   <li>1200 DPI scans of the original PCB with all components removed</li>
   <li>Bill Of Materials (BOM) - In case you want to identify a part and/or make an order for repair or building a replica PCB</li>
 </ul>
+
+<h1>Errata</h1>
+<ul>
+  <li>Two instances of JP6 on the silk screen. The rightmost one should really say JP5, but it's not really important. It's just a jumper wire, so you can't get it wrong.</li>
+</ul>
