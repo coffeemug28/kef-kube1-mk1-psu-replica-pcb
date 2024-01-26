@@ -41,8 +41,8 @@ in any of the information provided here.</p>
       really think about the wire colors. Compared to the original, the red and yellow wires are swapped. This can
       lead to some confusion, so when disassembling your Kube-1, make a note of the order of the pins, so you don't
       accidentally reverse the polarity.</li>
-  <li>I only use this subwoofer with 230 volts AC, so I cut the leads on the 230V/120V panel mounted selector switch,
-      and didn't fit the J2 wire connector on the board. The switch position on the 120V option will short the two
+  <li>I only use this subwoofer with 230 volts AC, so I cut the leads on the 230V/110V panel mounted selector switch,
+      and didn't fit the J2 wire connector on the board. The switch position on the 110V option will short the two
       leads on J2, and it does nothing when the switch is set to 230V. So for my case I didn't bother adding it.</li>
 </ul>
 
