@@ -20,6 +20,19 @@ in any of the information provided here.</p>
   <li>Bill Of Materials (BOM) - In case you want to identify a part and/or make an order for repair or building a replica PCB</li>
 </ul>
 
+<h1>Differences</h1>
+<p>The replica PCB is almost 100% identical to the original PCB, however two sections are slightly changed to improve the design</p>
+<ul>
+  <li>D3 and D4 are schottky diodes clamping the voltage output to the preamplifier PCB to 15V. To double the maximum amperage 
+      for this circuit, KEF had tacked on a second set of 15V schottky diodes to the bottom. This was quite an ugly fix I
+      think, so I made a second set of pads in the replica PCB to make soldering the bottom side schottky diodes easier.
+      I named these D3a/D3b and D4a/D4b on the silkscreen.</li>
+  <li>The original PCB had a mistake where there were no room to fit C8 on the top side of the PCB, and since the original
+      PCB was a single-sided PCB you couldn't just insert it from the bottom and solder it that way. Instead KEF tacked it
+      onto neighboring pins. Again, quite ugly. So on the replica PCB C8 and R11 is rearranged somewhat to aid soldering.
+      C8 is still meant to be soldered on the bottom side.</li>
+</ul>
+
 <h1>Errata</h1>
 <ul>
   <li>Two instances of JP6 on the silk screen. The rightmost one should really say JP5, but it's not really important. It's just a jumper wire, so you can't get it wrong.</li>
