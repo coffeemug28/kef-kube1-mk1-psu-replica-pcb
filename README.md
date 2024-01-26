@@ -21,6 +21,8 @@ in any of the information provided here.</p>
 </ul>
 
 <h1>Differences</h1>
+<p>Any difference between the original and replica is noted here.</p>
+<h2>PCB differences</h2>
 <p>The replica PCB is almost 100% identical to the original PCB, however two sections are slightly changed to improve the design</p>
 <ul>
   <li>D3 and D4 are schottky diodes clamping the voltage output to the preamplifier PCB to 15V. To double the maximum amperage 
@@ -31,11 +33,17 @@ in any of the information provided here.</p>
       PCB was a single-sided PCB you couldn't just insert it from the bottom and solder it that way. Instead KEF tacked it
       onto neighboring pins. Again, quite ugly. So on the replica PCB C8 and R11 is rearranged somewhat to aid soldering.
       C8 is still meant to be soldered on the bottom side.</li>
+</ul>
+<h2>Differences in my own replica build</h2>
+<ul>
   <li>If you watch the photos of my completed replica PCB, you can see that I made a new, slightly longer power cable to
       the amplifier, to make it easier to reassemble the unit. I just used some pre-crimped JST-VH wires, and didn't
       really think about the wire colors. Compared to the original, the red and yellow wires are swapped. This can
       lead to some confusion, so when disassembling your Kube-1, make a note of the order of the pins, so you don't
       accidentally reverse the polarity.</li>
+  <li>I only use this subwoofer with 230 volts AC, so I cut the leads on the 230V/120V panel mounted selector switch,
+      and didn't fit the J2 wire connector on the board. The switch position on the 120V option will short the two
+      leads on J2, and it does nothing when the switch is set to 230V. So for my case I didn't bother adding it.</li>
 </ul>
 
 <h1>Errata</h1>
