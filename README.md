@@ -29,7 +29,7 @@ in any of the information provided here.</p>
       for this circuit, KEF had tacked on a second set of 15V schottky diodes to the bottom. This was quite an ugly fix I
       think, so I made a second set of pads in the replica PCB to make soldering the bottom side schottky diodes easier.
       I named these D3a/D3b and D4a/D4b on the silkscreen.</li>
-  <li>The original PCB had a mistake where there were no room to fit C8 on the top side of the PCB, and since the original
+  <li>The original PCB had a mistake where there was no room to fit C8 on the top side of the PCB, and since the original
       PCB was a single-sided PCB you couldn't just insert it from the bottom and solder it that way. Instead KEF tacked it
       onto neighboring pins. Again, quite ugly. So on the replica PCB C8 and R11 is rearranged somewhat to aid soldering.
       C8 is still meant to be soldered on the bottom side.</li>
